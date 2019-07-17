@@ -1,5 +1,5 @@
-# nginx-mysql-docker-wordpress
 # Install Wordpress in Docker with Nginx and Lets Encrypt for HTTPS
+# Note: This is an original work for Douglas Muth at https://www.dmuth.org
 
 Wow, that was a mouthful.  But yeah, that's what this repo does.
 
