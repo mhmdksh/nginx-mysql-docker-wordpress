@@ -3,3 +3,4 @@
 #
 certbot/*
 public_html/*
+.env
